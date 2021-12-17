@@ -5,7 +5,7 @@ metadata:
 spec:
   title: Markdown Sample
   description: A sample workshop using Markdown
-  vendor: vinalhaven.io
+  # vendor: vinalhaven.io
   difficulty: beginner
   duration: 15m
   url: https://github.com/bmullan-pivotal/lab-markdown-sample
